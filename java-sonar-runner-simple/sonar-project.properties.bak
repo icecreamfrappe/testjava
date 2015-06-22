@@ -8,6 +8,6 @@ sonar.sources=src
 
 
 
-sonar.language=java
+sonar.language=web
 
  
